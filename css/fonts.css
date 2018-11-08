@@ -1,0 +1,50 @@
+@font-face{
+    font-family:OpenSans-Bold;
+    font-style:normal;
+    font-weight:700;
+    src:local('OpenSans-Bold'), url(../font/Roboto-Bold.woff2) format('woff2'),
+    url(../font/OpenSans-Bold.ttf) format('ttf');
+    unicode-range:U+0020-024f
+}
+@font-face{
+    font-family:OpenSans-Regular;
+    font-style:normal;
+    font-weight:400;
+    src:local('OpenSans-Regular'), url(../font/Roboto-Regular.woff2) format('woff2'),
+    url(../font/OpenSans-Regular.ttf) format('ttf');
+    unicode-range:U+0020-024f
+}
+@font-face{
+    font-family:GoodVibesPro;
+    font-style:normal;
+    font-weight:400;
+    src:local('Good-Vibes'), url(../font/GoodVibesPro.woff) format('woff'),
+    url(../font/GoodVibesPro.ttf) format('ttf');
+    unicode-range:U+0020-024f
+}
+@font-face{
+    font-family:Billabong;
+    font-style:normal;
+    font-weight:400;
+    src:local('Billabong'), url(../font/Billabong.woff2) format('woff');
+    unicode-range:U+0020-024f
+}
+@font-face{
+    font-family:LatoThin;
+    font-style:normal;
+    src: url(../font/latothin.woff) format('woff'),
+    url(../font/latothin.ttf) format('ttf');
+}
+@font-face{
+    font-family:LatoRegular;
+    font-style:normal;
+    src: url(../font/latoregular.woff) format('woff'),
+    url(../font/latoregular.ttf) format('ttf');
+}
+@font-face {
+    font-family: 'Conv_notperfect';
+    src: url('../font/notperfect.eot');
+    src: local('☺'), url('../font/notperfect.woff') format('woff'), url('../font/notperfect.ttf') format('truetype'), url('../font/notperfect.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
